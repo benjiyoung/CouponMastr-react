@@ -1,0 +1,14 @@
+.Layout {
+    /* height: 100%; */
+    /* box-sizing: border-box; fix css size bug/feature */
+    /* display:grid; */
+    /* grid-template-rows: 20% 75% 5%; */
+}
+
+/* .Layout , .Layout > * { */
+    /* border: 1px solid rgb(255, 255, 255); */
+/* } */
+
+/* a { */
+    /* text-decoration: none; */
+/* } */
